@@ -1,0 +1,20 @@
+
+
+
+
+** THỰC HIỆN
+- Tạo mới:	*Giao diện*
+	- trang môi giới (dành cho người dùng vai trò môi giới)
+		+ Tính năng đăng/xem tin dạng grid
+		+ Sắp xếp tin đăng mới nhất lên trên cùng / tin VIP
+		+ Gồm có ví tiền (đăng tin tốn tiền)
+		+ Gói tin môi giới (đăng tin tiết kiệm tiền, mua sỉ lượng tin đăng)
+		+ Nạp ví mô phỏng
+		+ Hiển thị các giao dịch của người dùng
+	- Tính năng:
+		- List tin
+		- Trình lưu hình ảnh và tải ảnh lên tin
+	- actions
+
+
+=> Commit lên Github

@@ -1,0 +1,17 @@
+
+
+- Lên kế hoạch chọn ngôn ngữ + công nghệ sử dụng (dưới sự tư vấn của ChatGPT)
+- Danh sách tính năng cần có (Planning Features)
+- Core Features cần có
+
+
+
+** THỰC HIỆN
+- Tạo mới:
+	- giao diện cho trang Đăng Ký/Đăng Nhập
+	- Cho phép người dùng mới chọn vai trò của mình (Khách hàng hoặc Môi giới) 
+			==> Quyết định cả quá trình trải nghiệm website về sau
+	- Tạo login forms biểu mẫu truy cập tài khoản vào website
+
+
+=> Commit lên Github
